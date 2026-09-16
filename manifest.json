@@ -1,8 +1,8 @@
 {
   "name": "Ma.Co Console",
   "short_name": "Ma.Co",
-  "start_url": "./",
-  "scope": "./",
+  "start_url": "/maco-pwa-testing/",
+  "scope": "/maco-pwa-testing/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
@@ -11,13 +11,13 @@
       "src": "https://cdn-icons-png.flaticon.com/512/2935/2935413.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     },
     {
       "src": "https://cdn-icons-png.flaticon.com/512/2935/2935413.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     }
   ]
 }
