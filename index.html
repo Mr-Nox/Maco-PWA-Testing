@@ -35,11 +35,9 @@
 </head>
 <body>
 
-  <!-- Replace this URL with your deployed Web App URL from Google Apps Script -->
   <iframe src="https://script.google.com/macros/s/AKfycbw0mwVzpWKnlV6JurOpPJSLScV-KdqTYxk6xEUG530/exec"></iframe>
 
   <script>
-    // Register Service Worker for PWA compliance
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
         navigator.serviceWorker.register('./sw.js')
