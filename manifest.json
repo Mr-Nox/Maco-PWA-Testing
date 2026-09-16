@@ -13,11 +13,14 @@
       "type": "image/png",
       "purpose": "any"
     },
-    {
-      "src": "https://cdn-icons-png.flaticon.com/512/2935/2935413.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any"
-    }
+   "icons": [
+      {
+        "src": "https://cdn-icons-png.flaticon.com/512/2935/2935413.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any"
+      }
+    ]
+    
   ]
 }
